@@ -16,7 +16,7 @@ Highly motivated full-stack developer lately graduated, with strong foundation i
 
 - 📱 Go visite <a href="https://Mohamed-Guernaoui.github.io/vite-Porfolio/" target="_blank" rel="noreferrer">**my website**</a>
 
-- ⚡ Fun fact **I hit the Gym every day**
+- ⚡ Fun fact **I'm searching for one**
 
 
 - <h3 align="left">Languages and Tools:</h3>
