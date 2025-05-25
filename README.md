@@ -9,8 +9,8 @@
 </h1>
 
 <!-- Animated Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=28&pause=1000&color=5F4B8B&vCenter=true&width=1200&height=51&separator=%3C&lines=Web+Hacking%2C+Shoshin+Learning%2C+Programming+and+Bug+Bounty+;)" alt="Typing SVG" /></a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=34F058&background=00000000&width=500&height=60&lines=while(oppression.exists())%7B;++++codeForJustice();%7D;console.log("%F0%9F%8C%8D%20Free%20Palestine%20🇵🇸");)](https://git.io/typing-svg)
 <!-- Presentation -->
 <div style="text-align: left; font-family: 'JetBrains Mono', monospace; color: black;">
   <p>I'm <strong>Mohamed</strong>, FullStack Developer from <strong>Morocco </strong> 🇲🇦 </p>
