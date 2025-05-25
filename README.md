@@ -1,28 +1,24 @@
-# MOHAMED GUERNAOUI
+<head>
+  <!-- Google Fonts link for JetBrains Mono -->
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap" rel="stylesheet">
+</head>
 
-**`FULL-STACK/CROSS-PLATFORM DEVELOPER`**
+<!-- Title and Subtitle -->
+<h1 align="left" style="color:black; font-family: 'JetBrains Mono', monospace;">
+  Welcome to my World! 💻
+</h1>
 
-Highly motivated full-stack developer lately graduated, with strong foundation in programming languages and technologies. Having the essential competencies required to proficiently accomplish tasks in web application development. Beside 3+ year of experience working in collaboration with other developers on building online stores and websites for small business. My primary goal is to gain invaluable hands-on experience while contributing my skills to a dynamic team.
+<!-- Animated Text -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=28&pause=1000&color=5F4B8B&vCenter=true&width=1200&height=51&separator=%3C&lines=Web+Hacking%2C+Shoshin+Learning%2C+Programming+and+Bug+Bounty+;)" alt="Typing SVG" /></a>
 
+<!-- Presentation -->
+<div style="text-align: left; font-family: 'JetBrains Mono', monospace; color: black;">
+  <p>I'm <strong>Mohamed</strong>, FullStack Developer from <strong>Morocco </strong> 🇲🇦 </p>
+</div>
 
+<!-- GitHub Stats -->
+<div style="margin-top: 15px; text-align: left;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Guernaoui&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Mohamed-Guernaoui's GitHub Stats" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Guernaoui&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Mohamed-Guernaoui's GitHub Stats" />
+</div>
 
-- 🔭 I’m currently working on **SAAS**
-
-- 🌱 I’m currently learning **Data structures and Algorithmes**
-
-- 💬 Ask me about **react vue and ionicJs**
-
-- 📫 How to reach me **mguernaoui03@gmail.com**
-
-- 📱 Go visite <a href="https://Mohamed-Guernaoui.github.io/vite-Porfolio/" target="_blank" rel="noreferrer">**my website**</a>
-
-- ⚡ Fun fact **I'm searching for one**
-
-
-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Guernaoui&show_icons=true&locale=en&layout=compact" alt="Mohamed-Guernaoui" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Guernaoui&show_icons=true&locale=en" alt="Mohamed-Guernaoui" /></p>
 
