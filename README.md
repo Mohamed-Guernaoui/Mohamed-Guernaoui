@@ -11,7 +11,9 @@
 <!-- Animated Text -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=4000&pause=1000&color=34F058&background=00000000&width=500&height=60&lines=while(oppression.exists())%7B;++++codeForJustice();%7D;console.log("%F0%9F%8C%8D%20Free%20Palestine%20🇵🇸");)](https://git.io/typing-svg)
-<!-- Presentation -->
+
+<!-- Presentation [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=000000&size=20&lines=Developers+for+🇵🇸;Stand+with+Palestine)](https://git.io/typing-svg)
+ -->
 <div style="text-align: left; font-family: 'JetBrains Mono', monospace; color: black;">
   <p>I'm <strong>Mohamed</strong>, FullStack Developer from <strong>Morocco </strong> 🇲🇦 </p>
 </div>
