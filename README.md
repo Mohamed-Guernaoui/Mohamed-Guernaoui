@@ -20,7 +20,8 @@
 
 <!-- GitHub Stats -->
 <div style="margin-top: 15px; text-align: left;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Guernaoui&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true" alt="Mohamed-Guernaoui's GitHub Stats" />    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Guernaoui&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact" alt="Mohamed-Guernaoui's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Guernaoui&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Mohamed-Guernaoui's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Guernaoui&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Mohamed-Guernaoui's GitHub Stats" />
 </div>
 
 <!-- Technologies -->
