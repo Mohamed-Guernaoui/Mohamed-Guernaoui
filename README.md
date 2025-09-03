@@ -42,18 +42,22 @@
 
 <!-- Spotify Widget -->
 
-<!-- Social Media -->
-<h3>Connect with Me 🌍</h3>
-<p class="social-links">
-  <a href="https://www.linkedin.com/in/mohamed-guernaoui-ab27a2229/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%231e1e1e.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<!--   <a href="https://twitter.com/pwnedrar_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231e1e1e.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://juanfelipeoz.gitbook.io/notes" target="_blank"><img alt="GitBook" src="https://img.shields.io/badge/GitBook-%231e1e1e.svg?style=for-the-badge&logo=gitbook&logoColor=white" /></a> -->
-<!--   <a href="https://medium.com/@juanfelipeoz.rar" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%231e1e1e.svg?style=for-the-badge&logo=medium&logoColor=white" /></a> -->
-</p>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Guernaoui&bg_color=0d1117&color=deddda&line=ffffff&point=9a9996&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- Social Media -->
+<div align="center">
+<!-- <h3></h3> -->
+    <a href="https://www.linkedin.com/in/mohamed-guernaoui-ab27a2229/" target="_blank">
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
+    </a>
+
+</div>
+
+
 <!-- Stats Cards -->
+<!--
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <div style="display: flex; gap: 10px; align-items: center;">
     <img src="https://img.shields.io/badge/Followers-31-%231DA1F2" alt="Followers" />
@@ -72,5 +76,5 @@
     <span>Projects</span>
   </div>
 </div>
-
+-->
 
