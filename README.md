@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Mohamed%20Guernaoui&fontSize=40&fontColor=ffffff&desc=FullStack%20Developer%20%F0%9F%87%B2%F0%9F%87%A6&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="./github-banner.png" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-guernaoui-ab27a2229/" target="_blank">
