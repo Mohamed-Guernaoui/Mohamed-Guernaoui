@@ -8,23 +8,29 @@
 
 <br>
 
-<h2 align="center"><em>About me</em></h2>
+## Mohamed Guernaoui
 
-<p>
-  Hello there! <em><b>I'm Mohamed</b></em>, a FullStack Developer based in Morocco 🇲🇦. I enjoy building web applications end to end, from backend architecture to frontend polish, and I'm always exploring new tools to add to the stack.
-</p>
+Fullstack developer based in Morocco. I build web applications end to
+end, from backend architecture through to frontend polish.
 
-<br/>
+Right now I'm going deeper on software architecture with Java —
+microservices and cloud — and wiring LLM APIs into production systems
+over REST and GraphQL. Away from the keyboard, chess.
 
-<p align="center">
-  <em><b>🏗️ Currently deepening my skills in Software Architecture with Java — Microservices & Cloud</b></em><br/>
-  <em><b>🤖 Integrate AI/LLM APIs (Gemini, Claude) via REST and GraphQL into production systems for smart, value-added features</b></em><br/>
-  <em><b>♟️ Chess Player</b></em><br/>
-</p>
+---
 
-<br/>
-<br/>
+### Writing
 
+- [Splitting a monolith without stopping shipping](#) — what I'd do
+  differently on the second attempt.
+- [Putting an LLM behind a GraphQL schema](#) — cost, caching and the
+  failure modes nobody warns you about.
+- [Reading chess games like code review](#) — a short one.
+
+---
+<div align="center"> 
+  [LinkedIn](#) · [Blog](#) · [Email](#)
+</div>
 <h2 align="center"><em>Technologies</em></h2>
 
 <p align="center">
@@ -42,8 +48,8 @@
 
 <br/>
 
-<h2 align="center"><em>Statistics</em></h2>
+<!-- <h2 align="center"><em>Statistics</em></h2> -->
 
-<div align="center">
+<!-- <div align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Guernaoui&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-</div>
+ </div> -->
