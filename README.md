@@ -28,9 +28,8 @@ over REST and GraphQL. Away from the keyboard, chess.
 - [Reading chess games like code review](#) — a short one.
 
 ---
-<div align="center"> 
-  [LinkedIn](#) · [Blog](#) · [Email](#)
-</div>
+[LinkedIn](#) · [Blog](#) · [Email](#)
+
 <h2 align="center"><em>Technologies</em></h2>
 
 <p align="center">
